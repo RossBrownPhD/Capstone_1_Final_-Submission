@@ -9,7 +9,7 @@ All materials for capstone project
 #### The final paper, a Google Doc, labeled B_Capstone_Final_Report 
 
 #### The slide deck, labeled C_Capstone_Presentation
-> This is an autorun PowerPoint with narration and timing. The narration is rough, technical difficulties kept from saving the smooth one. It will be replaced at a future date.
+> This is an mp4 of PowerPoint with narration and timing.
 
 #### A folder labeled D_Intermediate_Submissions that includes
 > Initial Project Ideas
