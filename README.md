@@ -19,3 +19,8 @@ All materials for capstone project
 > Data Story
 > Milestone Report 
 > In-depth Analysis (Machine Learning)
+
+#### The slide deck as a PowerPoint, labeled E_Client_Presentation_Slide_Deck 
+
+#### The slide deck as a PDF, labeled F_Client_Presentation_as_PDF
+> 
